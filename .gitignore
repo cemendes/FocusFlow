@@ -1,0 +1,12 @@
+.DS_Store
+build/
+DerivedData/
+*.xcuserstate
+*.xcuserdata/
+xcuserdata/
+**/xcuserdata/
+project.xcworkspace/xcuserdata/
+test_runner
+*.swp
+*~
+
